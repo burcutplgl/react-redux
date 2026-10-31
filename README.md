@@ -1,17 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🛍️ React Product Management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<h2>📌 Proje Hakkında</h2>
 
-## React Compiler
+<p>Bu proje, React ve Redux Toolkit kullanılarak geliştirilmiş basit bir ürün yönetim uygulamasıdır. Kullanıcılar ürün ekleyebilir, silebilir, güncelleyebilir, arayabilir ve fiyatlarına göre sıralayabilir.</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h2>🚀 Kullanılan Teknolojiler</h2>
 
-## Expanding the ESLint configuration
+<ul>
+  <li>React.js</li>
+  <li>Redux Toolkit</li>
+  <li>React Router DOM</li>
+  <li>Tailwind CSS</li>
+  <li>React Icons</li>
+  <li>JavaScript</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-redux
+<h2>✨ Özellikler</h2>
+
+<ul>
+  <li>Ürün ekleme ve silme</li>
+  <li>Ürün güncelleme</li>
+  <li>Ürün arama</li>
+  <li>Fiyata göre artan ve azalan sıralama</li>
+  <li>Modal ile ürün işlemleri</li>
+  <li>Redux Toolkit ile merkezi state yönetimi</li>
+</ul>
+
+<h2>🎯 Kazanımlar</h2>
+
+<p>Bu projede React Hooks, useState, useEffect, React Router, Redux Toolkit, CRUD işlemleri ve component yapısı üzerine pratik yapıldı.</p>
+
+
+
+![](redux.gif)
